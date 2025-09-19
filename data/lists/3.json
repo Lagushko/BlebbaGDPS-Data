@@ -154,6 +154,13 @@
     "time": "24.08.2025"
   },
   {
+    "id": 373,
+    "name": "Absolute Zero",
+    "author": "MilkaWay",
+    "difficulty": 1,
+    "time": "19.09.2025"
+  },
+  {
     "id": 226,
     "name": "CrubyFai",
     "author": "iSlimEk",
@@ -253,5 +260,4 @@
   }
 
 ]
-
 
