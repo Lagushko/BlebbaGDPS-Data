@@ -224,6 +224,13 @@
     "time": "19.08.2025"
   },
   {
+    "id": 397,
+    "name": "ISOLATION",
+    "author": "Serkenus",
+    "difficulty": 1,
+    "time": "21.09.2025"
+  },
+  {
     "id": 296,
     "name": "Sakupem circles rm",
     "author": "Cyxarik198",
@@ -281,5 +288,6 @@
   }
 
 ]
+
 
 
