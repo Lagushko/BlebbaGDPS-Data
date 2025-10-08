@@ -92,10 +92,17 @@
   },
   {
     "id": 452,
-    "name": "Green Machine",
+    "name": "green Machine",
     "author": "wedssgun",
     "difficulty": 2,
     "time": "05.10.2025"
+  },
+  {
+    "id": 469,
+    "name": "red bit",
+    "author": "wedssgun",
+    "difficulty": 2,
+    "time": "08.10.2025"
   },
   {
     "id": 325,
